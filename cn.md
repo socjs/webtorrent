@@ -1,3 +1,5 @@
+# WebTorrent：基于浏览器的流 BT 客户端
+
 WebTorrent是用于 Node.js 和浏览器的流 torrent 客户端，完全使用 JavaScript 编写。WebTorrent 是个轻量级，快速的开源 BT 客户端，拥有非常棒的用户体验。
 
 在 node.js 中，模块只是简单的 torrent 客户端，使用 TCP 和 UDP 来和其他 torrent 客户端进行通讯。
