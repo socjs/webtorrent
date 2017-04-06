@@ -6,6 +6,7 @@ WebTorrent是用于 Node.js 和浏览器的流 torrent 客户端，完全使用 
 
 WebTorrent Desktop 连接 BitTorrent 和WebTorrent 端点。
 
+![Network](https://webtorrent.io/img/network.png)
 
 ## 特性
 
